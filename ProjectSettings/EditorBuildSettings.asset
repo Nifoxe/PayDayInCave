@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 7736acaf0ab716e4f87e596e22a01448
+  - enabled: 1
+    path: Assets/Scenes/BankDeposit.unity
+    guid: e1b92b628969d4044b3c3b1465399179
+  - enabled: 1
+    path: Assets/Scenes/Cafe.unity
+    guid: 62c451630d1aa8941982eca9c35ba6f0
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: a46b9722a28c48842adc2aeba897f4da
+  - enabled: 1
+    path: Assets/Scenes/GoldInvestement 1.unity
+    guid: dde68562aee7b974387be1958a9e873f
+  - enabled: 1
+    path: Assets/Scenes/Launch.unity
+    guid: b1c1f0b738305d2418bf0adbf00e12c2
+  - enabled: 1
+    path: Assets/Scenes/Victory.unity
+    guid: 71a01ef7e3073524ca6f4cd6454e963e
+  - enabled: 1
+    path: Assets/Scenes/Bank.unity
+    guid: 3254d333bdd2a4641ba1a4c45c7d342d
+  m_configObjects: {}
